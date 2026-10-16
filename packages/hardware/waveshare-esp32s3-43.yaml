@@ -14,7 +14,7 @@ packages:
   ch422g: !include waveshare-ch422g.yaml
 
 esp32:
-  flash_size: 16MB
+  flash_size: 8MB
 
 display:
   # The timings are Waveshare's own (ESP32_Display_Panel), not the model's. The ST7262 in this panel wants 808 to
