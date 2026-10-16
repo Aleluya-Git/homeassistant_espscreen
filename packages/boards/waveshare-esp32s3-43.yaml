@@ -57,7 +57,7 @@ substitutions:
 # ============================================================
 
 esp32:
-  flash_size: 16MB
+  flash_size: 8MB
 
 display:
   # The timings are Waveshare's own (ESP32_Display_Panel, BOARD_WAVESHARE_ESP32_S3_TOUCH_LCD_4_3.h), not the
